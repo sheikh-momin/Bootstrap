@@ -1,0 +1,515 @@
+
+body{
+    
+   background: black;
+    color: white;
+}
+
+
+
+ul{
+    margin: 0;
+    padding: 0;
+    
+    overflow: hidden;
+    border-bottom: 5px solid aqua;
+    border-top: 5px solid aqua;
+   
+}
+ul span{
+   display: block;
+    color: red;
+  
+}
+ul li{
+    float: right;
+    border: 5px solid white;
+    list-style-type: none;  
+}
+
+
+ul li a{
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 15px 16px;
+    display: inline-block;
+    
+}
+
+ul li a:hover{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    box-shadow: 2px -2px 18px 7px rgba(10,194,181,1);
+
+    
+}
+
+.Imtius{
+    background-image: url('wallpapersden.com_red-black-abstract_1920x1080.jpg');
+    background-repeat: no-repeat;
+    
+    width: 100%;
+    
+    border-left:5px solid aqua;
+}
+.Imtius .in{
+    width: 50%;
+}
+.Imtius .profile{
+    
+    position: relative;
+    float: right;
+    background-position:top-left;
+      
+}
+
+
+
+.put{
+    display: block;
+    width: 50%;
+    margin-top: 5px;
+}
+.put p{
+    font-size: 20px;
+}
+.Imtius h1{
+    width: 29%;
+    display: inline-block;
+    font-size: 55px;
+    padding: 15px;
+}
+.Imtius img:hover{
+    box-shadow: 2px -2px 18px 7px rgba(10,194,181,1);
+}
+
+.box button{
+    text-decoration: none;
+    color: black;
+    background: aqua;
+    padding: 10px;
+    border-radius: 10%;
+   
+}
+.box button:hover{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    box-shadow: 2px -2px 18px 7px rgba(10,194,181,1);
+
+}
+
+
+
+
+
+
+.ft {
+    display: block;
+    text-align: center;
+    
+    font-size: 45px;
+    margin-top: 130px;
+}
+.ft span{
+    color: mediumpurple;
+}
+.container{
+    margin-top: 20px;
+    width: 100%;
+}
+
+
+
+
+.container .box1 p  {
+    position: relative;
+    width:100%;
+    height:auto;
+    float: left;
+    
+    margin: 12px;
+     
+background: linear-gradient(57deg, rgba(38,233,240,1) 0%, rgba(60,91,102,1) 0%, rgba(56,24,36,1) 35%, rgba(115,43,43,1) 49%, rgba(45,68,68,1) 78%);
+  
+    font-size: 20px;
+    border: 1px solid black;
+    
+    border-radius: 5%;
+    padding:10px;
+}
+.box1:hover p {
+    box-shadow: -3px 1px 25px 9px rgba(27,224,118,0.8);
+}
+
+.container .box1 img{
+    width: 100px;
+    height: auto;
+    
+    padding-bottom:40px;
+}
+.container .box2 p  {
+    position: relative;
+    width:100%;
+    height: auto;
+    float:left;
+    margin: 12px;
+   
+    font-size: 20px;
+    border: 1px solid black;
+   
+background: linear-gradient(57deg, rgba(38,233,240,1) 0%, rgba(60,91,102,1) 0%, rgba(56,24,36,1) 35%, rgba(115,43,43,1) 49%, rgba(45,68,68,1) 78%);
+    border-radius: 5%;  
+    padding: 10px;
+}
+.box2:hover p{
+    box-shadow: -3px 1px 25px 9px rgba(224,157,27,0.8);
+}
+
+.container .box2 img{
+    width: 100px;
+    height: auto;
+    
+    padding-bottom:40px;
+}
+.container .box3 p  {
+    position: relative;
+    width: 100%;
+    height: auto;
+    
+    float:left;
+    margin: 14px;
+    
+    font-size: 20px;
+    border: 1px solid black;
+    
+background: linear-gradient(57deg, rgba(38,233,240,1) 0%, rgba(60,91,102,1) 0%, rgba(56,24,36,1) 35%, rgba(115,43,43,1) 49%, rgba(45,68,68,1) 78%);
+    border-radius: 5%;
+    padding: 10px;
+    text-align: 
+}
+.container .box3 img{
+    width: 100px;
+    height: auto;
+    
+    padding-bottom:40px;
+    
+}
+.box3:hover p{
+    box-shadow: -3px 1px 25px 9px rgba(27,189,224,0.8);
+}
+.vol1{
+    padding-top: 50px;
+    margin-top: 100px;
+    width: 100%;
+}
+.vol1 .img2{
+    margin-top: 100px;
+    width:20%;
+    float: left;
+    height: auto;
+    display:inline-block;
+    overflow: hidden;
+}
+.vol1 p{
+    width: 50%;
+    float: right;
+    margin-top: 200px;
+    font-size: 20px;
+    
+}
+.vol1 p span{
+    color: red;
+    font-size: 30px;
+    
+}
+.vol1 button{
+   text-decoration: none;
+    color: black;
+    background: aqua;
+    padding: 10px;
+    border-radius: 10%;
+    
+}
+.vol1 button:hover{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    box-shadow: 2px -2px 18px 7px rgba(10,194,181,1);
+
+    
+}
+.vol2 .imgb3{
+       
+        margin-top: 100px;
+         
+    
+        
+    
+        display:inline-block;
+
+}
+.vol2 .imgb3:hover{
+    box-shadow: -3px 1px 25px 9px rgba(27,189,224,0.8);
+    
+}
+
+.vol2 p{
+    width: 60%;
+    padding-top:200px;
+   
+    float: left;
+    font-size: 20px;
+}
+.vol2 p span{
+    color: red;
+    font-size: 30px;
+}
+
+.vol2 button{
+   text-decoration: none;
+    color: black;
+    background: aqua;
+    padding: 10px;
+    border-radius: 10%;
+}
+.vol2 button:hover{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    box-shadow: 2px -2px 18px 7px rgba(10,194,181,1);
+-webkit-box-shadow: 2px -2px 18px 7px rgba(10,194,181,1);
+-moz-box-shadow: 2px -2px 18px 7px rgba(10,194,181,1);
+}
+.some{
+    margin: 30px;
+    
+}
+.some h2{
+    text-align: center;
+    font-size: 45px;
+    
+}
+.img3{
+    margin-left: 300px;
+    width:65%;
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+}
+.i1 img{
+    width: 30%;
+    height: auto;
+    float: left;
+    padding: 10px;
+   
+}
+.i2 img{
+    width: 30%;
+    height: auto;
+    float: right;
+    padding: 10px;
+    
+}
+.i3 img{
+    width: 30%;
+    height: auto;
+    float: inherit;
+    padding: 10px;
+}
+
+
+.img4{
+    margin-left: 300px;
+    width:65%;
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+}
+.i4 img{
+    width: 30%;
+    height: auto;
+    float: left;
+    padding: 10px;
+   
+}
+.i5 img{
+    width: 30%;
+    height: auto;
+    float: right;
+    padding: 10px;
+    
+}
+.i6 img{
+    width: 30%;
+    height: auto;
+    float: inherit;
+    padding: 10px;
+}
+.some1 h2{
+    text-align: center;
+    font-size: 45px;
+    text-shadow: 5px 5px 2px rgba(50,139,98,0.73);
+    color: aqua;
+    
+}
+.main{
+    position: relative;
+    width: 100%;
+}
+
+.send{
+    background-image: url(wallpapersden.com_red-black-abstract_1920x1080.jpg);
+    
+    
+    position: relative;
+    width: 100%;
+   
+   
+    display:inline-block;
+    font-size: 18px;
+    
+}
+
+
+
+
+
+
+
+
+
+.body{
+    margin: 100px;
+    
+}
+.final{
+    width: 68%;
+    float: left;
+    
+}
+
+input{
+   
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border-bottom: 1px solid red;
+}
+
+
+.final h2{
+    color: deepskyblue;
+}
+
+
+.reach h2{
+    color: dodgerblue;
+}
+
+.c1{
+    width: 20%;
+    float: left;  
+    
+}
+
+.c2{
+    width:20%;
+    float: left;
+    
+}
+.c3{
+    width: 20%;
+    float: left;
+    
+}
+.c6{
+    width: 20%;
+    float: left;
+    
+}
+
+button{
+    background: purple;
+    color: white;
+    padding: 5px;
+}
+button:hover{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    box-shadow: 2px -2px 18px 7px rgba(10,194,181,1);
+
+}
+
+
+
+.reach{
+    width: 30%;
+    float: right;
+    
+}
+
+.footer{
+   
+    
+    width: 100%;
+    text-align: center;
+    background-image: url('end.jpg');
+    background-repeat:;
+    display:inline-block;
+    background-image: 
+  
+}
+.facebook{
+    margin-right: 25px;
+    
+}
+
+
+.facebook:hover{
+    box-shadow: 2px 3px 16px 13px rgba(1,113,245,0.69);
+}
+
+.whatsapp{
+    margin-right: 25px;
+}
+.whatsapp:hover{
+    box-shadow: 2px 3px 16px 13px rgba(1,245,40,0.69);
+}
+.telegram:hover{
+    box-shadow: 2px 3px 16px 13px rgba(1,113,245,0.69)
+}
+
+.footer h2{
+   
+    color: mediumpurple;
+    padding: 5px;
+    
+}
+.footer h2 span{
+    color: aqua;
+}
+
+.footer h3{
+    color: white;
+    padding-bottom: 5px;
+}
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+    
+    
+    
+    
+ 
+
+   
+
+
+
+
