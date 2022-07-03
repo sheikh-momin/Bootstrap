@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,400;1,500&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Navbar */
+.navcol{
+    background: #EFEFEF;
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: black;
+}
+.navbar-brand:hover{
+    color: black;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+}
+.navbar-brand:hover{
+    color: black;
+}
+.organic{
+    font-family: 'Handlee', cursive;
+    font-weight: bolder;
+}
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    margin-right: -35px;
+    border: 2px solid rgb(248, 26, 29);
+}
+.btn0{
+    height: 40px;
+    width: 60px;
+    outline: none;
+    border: none;
+    background: rgb(248, 26, 29);
+    color: white;
+    border-radius: 60px;
+    font-weight: 700;
+}
+
+
+/* Main */
+.main{
+    background-image: url(./Image/backgroun-img.jpg);
+    /* background: no-repeat; */
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 100vh;
+    width: 100%;
+}
+.main h1{
+    font-size: 4rem;
+    font-weight: 700;
+    color: whitesmoke;
+ 
+}
+.main h1 span{
+    color: #F81A1D;
+}
+.btn1{
+    height: 39px;
+    width: 200px;
+    outline: none;
+    border: none;
+    background: rgb(248, 26, 29);
+    color: white;
+    border-radius: 40px;
+    font-weight: 700;
+    
+
+}
+.sideBur{
+    padding-right: 20%;  
+}
+.img{
+    size: 20px;
+}
+h1{
+    font-weight: 700;
+    transition: 0.5s;
+    
+}
+.btn1:hover{
+    background: rgb(223, 15, 77);
+}
+.card:hover{
+    box-shadow: 9px 14px 17px -5px rgba(0,0,0,0.57);
+-webkit-box-shadow: 9px 14px 17px -5px rgba(0,0,0,0.57);
+-moz-box-shadow: 9px 14px 17px -5px rgba(0,0,0,0.57);
+transform:scale3d(1.0);
+}
+
+/* Apple */
+.apple{
+    background-image: url('./Image/boy.webp');
+    /* background: no-repeat; */
+    background-size: cover;
+    background-position: 40% 40%;
+    height: 80vh;
+    width: 100%;
+    
+}
+.apple h1{
+    font-family: 'Handlee', cursive;
+}
+
+/* News */
+.news{
+    background: black;
+    color: white;
+}
+.btn2{
+    height: 45px;
+    width: 100px;
+    background: white;
+    margin-left: -10px;
+    border: 2px solid white;
+    font-weight: 600;
+}
+.news input{
+    height: 45px;
+    width: 55%;
+    border: 2px solid white;
+    outline: none;
+    background: black;
+    color: white;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.news::placeholder{
+    color: white;
+}
+.news p{
+    margin: 0;
+}
+.fab{
+    font-size: 2.5rem;
+    cursor: pointer;
+    padding-right: 5px;
+}
+
+/* The End */
